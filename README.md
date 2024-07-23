@@ -1,4 +1,8 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/97340734@N07/53875239470/in/dateposted-public/" title="ezgif-2-184a2945cb"><img src="https://live.staticflickr.com/65535/53875239470_d312b2e102_o.gif" width="800" alt="ezgif-2-184a2945cb"/></a>
+<div align="center">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/97340734@N07/53875239470/in/dateposted-public/" title="ezgif-2-184a2945cb">
+    <img src="https://live.staticflickr.com/65535/53875239470_d312b2e102_o.gif" width="700" alt="ezgif-2-184a2945cb"/>
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Nicholas Detrio</h1>
 <h3 align="center">A passionate and dedicated data scientist with a robust background in Python, machine learning, and time series analysis. My journey in data science is complemented by extensive experience in compliance and program enforcement within the housing sector. Currently, I am enhancing my skills and knowledge at 4Geeks Academy, where I'm diving deep into the latest trends and technologies in data science.</h3>
 
