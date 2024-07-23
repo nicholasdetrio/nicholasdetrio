@@ -1,4 +1,4 @@
-![test.]([https://app.runwayml.com/creation/dfbd9c89-2ed3-4620-b7b9-48d670677541](https://app.runwayml.com/creation/dfbd9c89-2ed3-4620-b7b9-48d670677541))
+![profile banner](banner.gif)
 <h1 align="center">Hi 👋, I'm Nicholas Detrio</h1>
 <h3 align="center">A passionate and dedicated data scientist with a robust background in Python, machine learning, and time series analysis. My journey in data science is complemented by extensive experience in compliance and program enforcement within the housing sector. Currently, I am enhancing my skills and knowledge at 4Geeks Academy, where I'm diving deep into the latest trends and technologies in data science.</h3>
 
