@@ -1,6 +1,6 @@
 <div align="center">
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/97340734@N07/53875239470/in/dateposted-public/" title="ezgif-2-184a2945cb">
-    <img src="https://live.staticflickr.com/65535/53875239470_d312b2e102_o.gif" width="700" alt="ezgif-2-184a2945cb"/>
+    <img src="https://live.staticflickr.com/65535/53875239470_d312b2e102_o.gif" width="600" height="350" alt="ezgif-2-184a2945cb"/>
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Nicholas Detrio</h1>
