@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/fen9UVJ" data-context="false" ><a href="//imgur.com/a/fen9UVJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![test.]([https://myoctocat.com/assets/images/base-octocat.svg](https://imgur.com/a/fen9UVJ))
 <h1 align="center">Hi 👋, I'm Nicholas Detrio</h1>
 <h3 align="center">A passionate and dedicated data scientist with a robust background in Python, machine learning, and time series analysis. My journey in data science is complemented by extensive experience in compliance and program enforcement within the housing sector. Currently, I am enhancing my skills and knowledge at 4Geeks Academy, where I'm diving deep into the latest trends and technologies in data science.</h3>
 
